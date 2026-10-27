@@ -103,11 +103,11 @@ import 'package:flutter/material.dart';
 import 'package:app_gastro/screens/splash_screen.dart';
 
 void main() {
-  runApp(const QrooRecetasApp());
+  runApp(const AppGastroApp());
 }
 
-class QrooRecetasApp extends StatelessWidget {
-  const QrooRecetasApp({super.key});
+class AppGastroApp extends StatelessWidget {
+  const AppGastroApp({super.key});
 
   @override
   Widget build(BuildContext context) {
