@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+// ignore: unused_import
 import 'package:app_gastro/screens/home_screen.dart';
 import 'package:app_gastro/screens/main_screen.dart';
 

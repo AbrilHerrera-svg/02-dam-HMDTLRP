@@ -4,7 +4,7 @@ class AcercaScreen extends StatelessWidget {
   const AcercaScreen({super.key});
 
   static const List<String> _integrantes = [
-    "Herrera Dominguez Abril Andrea"
+    "Herrera Dominguez Abril Andrea",
     "Mendoza Ramos Luis Angel",
     "De la Cruz Bravo Santos Aldimer",
     "Puc Flores Jesus Alejandro",
